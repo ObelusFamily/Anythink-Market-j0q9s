@@ -15,4 +15,4 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 In terminal run 'docker-compose up'
 
 Point browser to http://localhost:3000/api/ping to check backend.
-Point browser to http://localhost:3001/register to check frontend.
+Point browser to http://localhost:3001/register to check frontend. 
